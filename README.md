@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoykrisnadas" alt="hridoykrisnadas" /></a> </p>
 
-<p align="left"> <a href="https://bd.linkedin.com/in/hridoykrisnadas" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hridoykrisnadas" height="20" width="20"/></a> </p>
+<p align="left"> <a href="https://bd.linkedin.com/in/hridoykrisnadas" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hridoykrisnadas" height="20px" width="20px"/></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
