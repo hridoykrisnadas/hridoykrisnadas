@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridoykrisnadas&label=Profile%20views&color=0e75b6&style=flat" alt="hridoykrisnadas" /> </p>
 
-<p align="left"> <a href="https://bd.linkedin.com/in/hridoykrisnadas"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hridoykrisnadas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoykrisnadas" alt="hridoykrisnadas" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hridoykrisnadas" target="blank"><img src="https://img.shields.io/twitter/follow/hridoykrisnadas?logo=twitter&style=for-the-badge" alt="hridoykrisnadas" /></a> </p>
+<p align="left"> <a href="https://bd.linkedin.com/in/hridoykrisnadas" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hridoykrisnadas" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
